@@ -13,8 +13,7 @@ public class Scope {
     public static void main(String[] args) {
         
         //Declare and initialise a local String variable
-        String txt = "This is a local variable in the "
-                + "main method";
+        String txt = "This is a local variable in the main method";
         
         //Output its value
         System.out.println(txt);
